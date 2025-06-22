@@ -11,5 +11,13 @@ Criar uma pasta de trabalho no Excel seguindo as orientações das aulas.
 4. Observação: os dados da aba "Tabelas" não devem ser alterados.
 ## Aba Titular:
 1. Você vai lançar seus dados pessoais, que serão enviados ao contador;
-2. Os campos j[a estão formatados para quando lançar o dado, ele ficará no formato padrão, por exemplo o CPF ficará com "000.000.000-00";
-3. 
+2. Os campos já estão formatados para quando lançar o dado, ele ficará no formato padrão, por exemplo o CPF ficará com "000.000.000-00";
+## Aba Informes:
+1. Escolha o banco através da lista suspensa que aparece ao clicar na "setinha" do lado direito, do campo na cor creme;
+2. Lance os dados, de acordo com o informe do seu banco, com o valor em conta corrente;
+3. Insira o nome do PDF que você tem do banco e que enviará ao contador;
+## Aba Notas:
+1. São as entradas das tuas receitas, de salário, CNPJ, aluguel ou free lance.
+## Contato:
+#### Em caso de dúvidas de como usar, clique no ícone do Linkedin (abaixo no menu principal) que você será direcionado à minha conta.
+#### Espero que tenham gostado.
